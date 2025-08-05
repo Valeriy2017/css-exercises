@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Verdana';
+    src: url('./fonts/Verdana/Verdana.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Verdana';
+    src: url('./fonts/Verdana/Verdana-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dejavu-sans';
+    src: url('./fonts/dejavu-sans/DejaVuSans.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dejavu-sans';
+    src: url('./fonts/dejavu-sans/DejaVuSans-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}

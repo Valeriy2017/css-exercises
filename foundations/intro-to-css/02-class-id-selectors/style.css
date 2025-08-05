@@ -1,0 +1,27 @@
+@import url(./fonts.css);
+
+
+body{
+    font-family: Verdana Dejavu-sans sans-serif;
+}
+
+p{
+    background-color: #ff6868;
+}
+
+#Number__2{
+    color: #0000ff;
+    font-size: 34px;
+    
+}
+
+.text, #Number__4{
+    font-size: 24px;
+}
+
+
+#Number__4{
+    background-color:#65e665;
+    font-weight: bold;
+
+}
