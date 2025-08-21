@@ -17,6 +17,8 @@ body {
 
 .modal {
   background: white;
+  display: flex;
+  padding: 16px;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
@@ -49,7 +51,10 @@ body {
   border: 1px solid #eee;
   padding: 0;
 }
-
+.header{
+  font-weight: 700;
+  font-size: 20px;
+}
 button {
   cursor: pointer;
   padding: 8px 16px;
@@ -66,4 +71,20 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+.item-modal{
+  /* display: flex; */
+  flex: 0 1 420px;
+  margin-left: 16px;
+
+}
+
+.item-title{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  
+}
+.text{
+  margin-bottom: 16px;
 }
